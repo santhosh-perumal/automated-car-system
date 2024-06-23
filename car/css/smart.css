@@ -1,0 +1,114 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+body{
+    font-family: "Poppins", sans-serif;
+    font-weight: 400;
+}
+.reg{
+    margin-left: 62%;
+}
+.car{
+    text-decoration: none;
+}
+.nav1{
+    border: 1px solid  rgb(168, 57, 57);
+    border-radius: 6px;
+    background-color: rgb(233, 41, 41);
+    color: white;
+}
+.nav1:hover{
+    background: white;
+}
+.nav2{
+    border: 1px solid  rgb(168, 57, 57);
+    border-radius: 6px;
+    background-color: rgb(233, 41, 41);
+    color: white;
+}
+.nav2:hover{
+    background: white;
+}
+.text{
+    padding-top:80px;
+    padding-left: 80px;
+    justify-content: space-between;
+}
+.selling{
+    margin-left: 10px;
+}
+.banner{
+    background-size: cover;
+}
+
+.body{
+    background-image: url('../media/wp1849473-audi-a4-wallpapers.jpg');
+    background-size:cover;
+    background-position: center;
+
+}
+.content{
+    color: white;
+    margin-left: 200px;
+    margin-top: 100px;
+
+}
+
+.cars a{
+
+    color: white;
+    text-decoration: dotted;
+}
+.cars a:hover{
+    color: aquamarine;
+}
+.help a{
+    text-decoration: none;
+    color: white;
+}
+.help a:hover{
+    color: aquamarine;
+}
+.media a{
+    text-decoration: none;
+    color: white;
+}
+.media a:hover{
+    color: aquamarine;
+}
+        /* user register css code */
+.form{
+    width:fit-content ;
+
+    color:white;
+}
+.submit{
+    margin-left: 10px;
+}
+#user{
+    background-image: url(/media/wp1849473-audi-a4-wallpapers.jpg);
+    background-size: cover;
+}
+
+        /* login page css codes */
+
+
+.login2{
+    width:300px;
+    margin-top: 100px;
+}
+.login1{
+     border: 1px solid;
+     border-radius: 10px;
+}
+ .bgimg{
+    background-image: url(/car/media/wp2575876-mercedes-cla-wallpapers.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+
